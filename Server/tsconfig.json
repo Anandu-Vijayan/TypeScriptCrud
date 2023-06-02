@@ -6,6 +6,8 @@
         "outDir": "dist",
         "sourceMap": true,
         "noImplicitAny": true,
+    "typeRoots": ["./src/types", "./types"]    
     },
     "include": ["src/**/*"]
+    
 }
